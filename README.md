@@ -1,8 +1,8 @@
 # Hey, I'm Vincent Matolka
 
-Computer Engineering graduate building AI application infrastructure, software tools, and systems-level code.
+Computer Engineering graduate building production software, AI systems, and lower level engineering projects across TypeScript, Python, SQL, and C.
 
-Open to **Software Engineering**, **Software Development**, and **Applied AI** roles.
+Open to **Software Engineering**, **Software Development**, and **Applied AI roles**.
 
 ---
 
