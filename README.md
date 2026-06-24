@@ -60,3 +60,7 @@ Open to **Software Engineering**, **Software Development**, and **Applied AI rol
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vincematolka)
+
+---
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
